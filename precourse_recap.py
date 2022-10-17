@@ -6,6 +6,7 @@ def check(word):
         return (False)
     else:
         print('You need to answer yes or no to the questions.  Please try again.')
+        exit()
 
 #Begins...
 print('Welcome to Cutlery Calculator!')
